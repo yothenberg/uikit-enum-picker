@@ -1,0 +1,1 @@
+This is a small iOS app demonstrating how to use a `UIPickerView` powered by an enum using the new Swift 4.2/Xcode 10+ `CaseIterable` protocol. The `UIPickerView` is used as the text field's `UITextField.inputView`.
